@@ -1,4 +1,4 @@
-#👋 Salut:
+# 👀 Salut :
 
 J'ai des idées stupides alors je les développe.
 
