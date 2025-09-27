@@ -1,6 +1,6 @@
 # 👀 Salut :
 
-J'ai des idées stupides alors je les développe.
+J'ai des idées stupides, alors je les développe.
 
 # 📊 GitHub Stats:
 <br align="center">![](https://nirzak-streak-stats.vercel.app/?user=Suussonic&theme=shadow_blue&hide_border=true)<br/>
