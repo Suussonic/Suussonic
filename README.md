@@ -5,12 +5,6 @@ J'ai des idées stupides, alors je les développe.
 # 📊 GitHub Stats:
 <br align="center">![](https://nirzak-streak-stats.vercel.app/?user=Suussonic&theme=shadow_blue&hide_border=true)<br/>
 
-### 🔝 Top Contributed Repo :
-<br align="center">![](https://github-contributor-stats.vercel.app/api?username=Suussonic&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)<br/>
-
-
-<p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"></a></p>
-
 ### ⚙️ Languages and Tools :
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
