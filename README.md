@@ -3,7 +3,12 @@
 J'ai des idées stupides, alors je les développe.
 
 # 📊 GitHub Stats:
-<br align="center">![](https://nirzak-streak-stats.vercel.app/?user=Suussonic&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Suussonic&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Suussonic&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suussonic&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Suussonic&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ### ⚙️ Languages and Tools :
 
